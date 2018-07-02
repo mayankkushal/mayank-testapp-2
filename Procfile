@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT mayank_testapp_2.wsgi:application
